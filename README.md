@@ -15,6 +15,10 @@ Note: MinGW on Windows can work but requires you to change the file extensions i
 #### Repository
 Clone the repository `https://github.com/multiplemonomials/CMakeTraining` to a folder on your computer to get access to the powerpoints and the files needed for the exercises. 
 
+#### Course Videos
+Training Session 1: [CMake and Building C++](https://www.youtube.com/watch?v=REcsrJUQoQk)
+Training Session 2: [More Advanced CMake](https://www.youtube.com/watch?v=R2UFNFuOW9Q)
+
 ### Course Outline
 
 	• Session 1: CMake and Building C++
