@@ -17,6 +17,7 @@ Clone the repository `https://github.com/multiplemonomials/CMakeTraining` to a f
 
 #### Course Videos
 Training Session 1: [CMake and Building C++](https://www.youtube.com/watch?v=REcsrJUQoQk)
+
 Training Session 2: [More Advanced CMake](https://www.youtube.com/watch?v=R2UFNFuOW9Q)
 
 ### Course Outline
